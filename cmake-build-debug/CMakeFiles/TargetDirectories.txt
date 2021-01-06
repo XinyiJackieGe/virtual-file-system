@@ -1,0 +1,6 @@
+/Users/xinyige/Documents/c_workspace/assignment-4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xinyige/Documents/c_workspace/assignment-4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xinyige/Documents/c_workspace/assignment-4/cmake-build-debug/CMakeFiles/assignment_4.dir
+/Users/xinyige/Documents/c_workspace/assignment-4/cmake-build-debug/CMakeFiles/assignment_4_mktest.dir
+/Users/xinyige/Documents/c_workspace/assignment-4/cmake-build-debug/CMakeFiles/assignment_4_mkfs.dir
+/Users/xinyige/Documents/c_workspace/assignment-4/cmake-build-debug/CMakeFiles/assignment_4_read-img.dir
